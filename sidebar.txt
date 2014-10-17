@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ema:home|Door43 (ema)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ema|d43-ema repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ema/archive/master.zip|d43-ema.zip]]
+
+**Recent Changes**
+{{changes>ns = ema}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ema|Ethnologue data]]
+
